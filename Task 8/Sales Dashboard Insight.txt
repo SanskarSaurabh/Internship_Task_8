@@ -1,0 +1,15 @@
+🔍 Sales Dashboard Insight
+
+The dashboard highlights strong overall performance with total sales of 2.30M and profits of 286.60K.
+
+Top Category: Office Supplies lead with 36.37% of total sales.
+
+Top Region: South region contributes the most at 31.56% of sales.
+
+Top Segment: Home Office dominates with over 50% of total sales.
+
+Shipping Mode: Standard Class is the most preferred, accounting for 59.15% of total sales.
+
+Best Performing Sub-Category: Phones generate the highest sales and profits, whereas Binders and Tables show negative profits.
+
+Sales Growth: Steady growth from 2021 (0.48M) to 2024 (0.73M), with Q4 being the strongest quarter across all years.
